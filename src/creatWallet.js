@@ -40,8 +40,8 @@ console.log("Chave Privada (WIF):", node.toWIF());
 console.log("Frase Mnemônica:", mnemonic);
 
 // **ATENÇÃO!**
-// * Guarde sua frase mnemônica e chave privada em um local seguro. 
+//   * Guarde sua frase mnemônica e chave privada em um local seguro.
 //   * A perda dessas informações impedirá o acesso aos seus fundos.
-// * Nunca compartilhe suas chaves privadas com ninguém.
-// * Este código é apenas para demonstração e fins educacionais. 
+//   * Nunca compartilhe suas chaves privadas com ninguém.
+//   * Este código é apenas para demonstração e fins educacionais.
 //   * Não utilize-o para armazenar grandes quantias de Bitcoin.
